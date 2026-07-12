@@ -15,13 +15,6 @@ Final-year ECE student with a strong track record of building and shipping compl
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chandru-rscm&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chandru-rscm&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=chandru-rscm&icon=7&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
